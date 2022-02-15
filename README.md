@@ -1,2 +1,2 @@
 # SDQL.sql
-Basics commands
+## Basics commands
